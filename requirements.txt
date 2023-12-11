@@ -1,0 +1,14 @@
+timm==0.3.4
+termcolor
+imgaug
+prettytable
+torch==1.8.1
+scikit-learn
+scikit-image
+PyTurboJPEG
+bcolz
+tensorboardX
+matplotlib
+easydict
+opencv-python
+einops
