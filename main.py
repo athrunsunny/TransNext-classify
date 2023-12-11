@@ -21,7 +21,6 @@ from timm.scheduler import create_scheduler
 from timm.utils import ApexScaler, NativeScaler
 from checkpoint_saver import CheckpointSaver
 from labeled_memcached_dataset import McDataset
-# import sgformer
 import transnext_native
 
 torch.backends.cudnn.benchmark = True
